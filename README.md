@@ -15,7 +15,7 @@ Enjoy !
 
 
 
-*NB : to run the program correctly , please install the following gem*
+*NB : before running the program, please install the following gem*
 
 `gem install colorize`
 
