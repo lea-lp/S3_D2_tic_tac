@@ -2,7 +2,7 @@
 
 ## Tic Tac Toe Ruby program w/ THP
 
-We choosed to use 1 file.rb per class
+We chose to use 1 file.rb per class
 
 -  Board
 -  BoardCase
