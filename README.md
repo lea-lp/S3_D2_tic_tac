@@ -1,6 +1,6 @@
 # S3_D2_tic_tac
 
-## Tic Tac Toe program w/ THP
+## Tic Tac Toe Ruby program w/ THP
 
 We choosed to use 1 file.rb per class
 
@@ -15,7 +15,7 @@ Enjoy !
 
 
 
-*NB : to run the program correctly , please install*
+*NB : to run the program correctly , please install the following gem*
 
 `gem install colorize`
 
