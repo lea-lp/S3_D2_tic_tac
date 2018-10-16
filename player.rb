@@ -5,7 +5,7 @@ class Player
   def initialize(name, symbol)
     @name = name
     @symbol = symbol
-    @state = false # if player wins, state == true
+    @state = false # si player gagne, state = true
   end
 
 end
